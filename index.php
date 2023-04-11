@@ -10,7 +10,7 @@
 
 </head>
 
-<body>
+<body background="assets/BotilleriaBandeja.png">
   <article>
     <h2>PUZZLE</h2>
     <div id="imagenes"></div>

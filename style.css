@@ -4,10 +4,10 @@ h2 {
 }
 
 article {
-  background-color: rgb(173, 159, 255);
+  /* background-color: rgb(173, 159, 255); */
   border-radius: 1em;
   text-align: center;
-  max-width: 640px;
+  max-width: 840px;
   margin: auto;
 }
 

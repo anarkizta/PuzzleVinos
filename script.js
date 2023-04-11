@@ -19,8 +19,8 @@ function init() {
   };
 
   // ponemos las imagenes aleatoriamente
-  random(6).forEach(el => {
-    document.getElementById("imagenes").innerHTML += "<img id='i" + el + "' draggable='true' src='assets/" + el + ".jpg'>";
+  random(26).forEach(el => {
+    document.getElementById("imagenes").innerHTML += "<img id='i" + el + "' draggable='true' width='80' height='200' src='assets/" + el + ".png'>";
   });
   puzzle();
 }
